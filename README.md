@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IDevPK - Iftikhar Ahmad
 - 👀 I’m interseted in coding and creating mobile apps using flutter
-- 🌱 I’m currently learning advanced topics of flutter and dart.
+- 🌱 I’m currently learning advanced topics of flutter, dart and Python.
 - 📫 I am on facebook. @idevpk
 
 <!---
